@@ -1,0 +1,23 @@
+@import 'normalize.css'
+
+.selector-for-some-widget {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+}
+body {
+  height: 100vh;
+}
+
+.card {
+  text-align: center;
+}
+
+.card-header {
+  font-weight: bold;
+  font-size: 1.8em;
+}
